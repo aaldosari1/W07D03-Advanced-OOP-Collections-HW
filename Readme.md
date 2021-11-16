@@ -11,7 +11,7 @@ Create a class called circle. It contains:
 Create a subclass called Cylinder derived from the superclass Circle. It:
 * Inherits the variables and methods from the superclass Circle.
 * One private instance variables: height (of type double) with default value of 1.0 and "red", respectively.
-* Two public methods: `getHeight()` that return the height and `getVolume()` that compute the volume of cylinder.
+* Two public methods: `getHeight()` that return the height and `getVolume()` that compute the volume `(height*area)` of cylinder.
 * Declare an instance of class Cylinder in the main and test its methods. 
 
 
