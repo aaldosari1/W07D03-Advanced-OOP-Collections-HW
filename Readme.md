@@ -15,3 +15,10 @@ Create a subclass called Cylinder derived from the superclass Circle. It:
 * Declare an instance of class Cylinder in the main and test its methods. 
 
 
+# Collections 
+
+* Write a Java program to replace the second element of a ArrayList with the specified element
+
+* Create a new priority queue, add some colors (string) and iterate through all elements.
+
+* Let the user insert elements into priority queue then check if a specific element is in the list or not. 
